@@ -24,7 +24,7 @@ for link in links:
     b = BeautifulSoup(html.text, 'lxml')
     # Airline names are stored in tables and sometimes there can be multiple tables. As a result of that, we get all the
     # tables in the page.
-    tables = b.find_all('table', {"class": "wikitable sortable"})
+    tables = b.find_all('table', {"class": lambda c: "wikitable" in c})
     if len(tables) > 0:
         for table in tables:
             airline_trs = table.contents[1].contents

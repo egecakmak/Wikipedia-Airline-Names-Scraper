@@ -1,11 +1,15 @@
+
+21 Air
 223rd Flight Unit
 224th Flight Unit
 2Excel Aviation
+2GO
 2nd Arkhangelsk United Aviation Division
 748 Air Services
 9 Air
 AB Aviation
 ABS Jets
+ABX Air
 ACG Air Cargo Global
 ACM Air Charter
 ACS Air Charter Service
@@ -14,6 +18,7 @@ ADAC Luftrettung
 AF Air
 AH Helicopters
 AIS Airlines
+ALK Airlines
 ALS - Aircraft Leasing Services
 AMC Airlines
 ANA Cargo
@@ -22,6 +27,7 @@ ARP 410 Airlines
 ARPA - Aerolineas Paraguayas
 ASKY Airlines
 ASL Airlines Belgium
+ASL Airlines France
 ASL Airlines Hungary
 ASL Airlines Ireland
 ASL airtaxi
@@ -43,6 +49,7 @@ Acropolis Aviation
 Ad Maiora Líneas Aéreas
 Adlair Aviation
 Adler Aviation
+Advanced Airlines
 Adventist Aviation Services
 Aegean Airlines
 Aeolus Air
@@ -156,6 +163,7 @@ Air Canada
 Air Canada Express
 Air Canada Jetz
 Air Canada Rouge
+Air Cargo Carriers
 Air Cargo Mongolia
 Air Century
 Air Chang'an
@@ -164,9 +172,11 @@ Air Charter Scotland
 Air Chathams
 Air China
 Air China Cargo
+Air Choice One
 Air Colombia
 Air Congo (1961)
 Air Corporate
+Air Corsica
 Air Creebec
 Air Côte d'Ivoire
 Air Direct-Connect
@@ -178,36 +188,46 @@ Air Europa
 Air Europa Express
 Air Excel
 Air Explore
+Air Flamenco
 Air Flight Charters
 Air Four
+Air France
+Air France Cargo
 Air Georgian
 Air Ghana
 Air Glaciers
 Air Greenland
 Air Guilin
 Air Guyana
+Air Guyane Express
 Air Hamburg
+Air Heritage
 Air Highnesses
 Air Hong Kong
 Air Horizont
 Air Iceland Connect
 Air Incheon
 Air Independence
+Air India
+Air India Express
 Air Inter Island
 Air Inuit
 Air Italy
 Air Japan
+Air Juan
 Air KBZ
 Air Kasai
 Air Katanga
 Air Kiribati
 Air Koryo
 Air Kyrgyzstan
+Air Lazur
 Air Leap
 Air Leasing Cameroon
 Air Liaison
 Air Libya
 Air Link
+Air Link International Airways
 Air Loyauté
 Air Macau
 Air Madagascar
@@ -220,6 +240,7 @@ Air Max Cargo (Hungary)
 Air Mediterranean
 Air Memphis (Uganda)
 Air Metack
+Air Methods
 Air Moldova
 Air Montmagny
 Air Namibia
@@ -248,6 +269,7 @@ Air Service Center
 Air Seychelles
 Air Sinai
 Air Spray
+Air Sunshine
 Air Tahiti
 Air Tahiti Nui
 Air Tanzania
@@ -257,6 +279,7 @@ Air Timor
 Air Tindi
 Air Transat
 Air Transport Europe
+Air Transport International
 Air Travel
 Air Tropiques
 Air Trust
@@ -274,10 +297,15 @@ Air Zimbabwe
 Air rescue company MChS Rossii
 Air-Albatros
 AirAsia
+AirAsia India
 AirAsia Japan
 AirAsia X
 AirBridgeCargo Airlines
 AirGO Flugservice
+AirGo Airlines Bulgaria
+AirMed International
+AirNet Express
+AirSWIFT
 AirSprint
 AirTanker
 AirTractor
@@ -285,6 +313,7 @@ AirTraffic Africa
 AirZafari
 Airaia
 Airblue
+Airbus Transport International
 Aircalin
 Aircompany ATMA
 Airest
@@ -305,6 +334,8 @@ Airwork
 Aklak Air
 Al Anwa Aviation
 AlMasria Universal Airlines
+Alaska Airlines
+Alaska Central Express
 Alba Servizi Aerotrasporti
 AlbaStar
 Albatros Airlines
@@ -323,10 +354,16 @@ Alkan Air
 All Nippon Airways
 Allegiance Air
 Allegiance Airways Gabon
+Allegiant Air
+Alliance Air
 Alliance Air (Uganda)
 Alliance Airlines
 Allied Air
+Aloha Air Cargo
 Alok Air
+Alphaland Aviation
+Alpine Air Express
+Alpines Airlines
 Alrosa Mirny Air Enterprise
 Alsie Express
 Altay airlines
@@ -336,7 +373,11 @@ Amakusa Airlines
 Amapola Flyg
 Amaszonas Paraguay
 Amega
+American Airlines
 American Jet
+Ameriflight
+Amerijet International
+Ameristar Jet Charter
 Amira Air
 Amjet Executive
 Amur Aircompany
@@ -363,6 +404,7 @@ Arkia
 Armenia Aircompany
 Armenia Airways
 Armi Global Business Air
+Arrendamientos Aéreos
 Arrow Panama
 Art Aviation
 Art avia
@@ -376,9 +418,11 @@ Asiana Airlines
 Asiana Airlines Cargo
 Askari Air Pakistan
 Associated Aviation
+AstonJet
 Astral Aviation
 Atlantic Charters
 Atlantis Armenian Airways
+Atlas Air
 Atlas Helicopters
 AtlasGlobal
 AtlasGlobal Ukraine
@@ -389,6 +433,7 @@ Austral Líneas Aéreas
 Austrian Airlines
 Avanti Air
 Avcon Jet
+Avdef
 Avia Jaynar
 Avia Traffic Company
 Avia-Consult Flugbetrieb
@@ -414,11 +459,13 @@ Aviatrade Congo
 Aviatsa
 Aviesa
 Aviolet
+Avion Express
 Avionord
 Avioquintana
 Avior Airlines
 Avior Regional
 Avioriprese
+Aviostart
 Avmax Chad
 Avro Express
 Ayit
@@ -434,6 +481,7 @@ Azur Air Ukraine
 Aéreo Servicio Guerrero
 BA CityFlyer
 BAE Systems
+BH Air
 BRA Braathens Regional Airlines
 BRB Air Limited
 BVI Airways
@@ -449,6 +497,7 @@ Bangla International Airlines Limited
 Bar XH Air
 Barash Aviation
 Barkol Airlines
+Baron Aviation
 Barrick Servicios Mineros
 Barrier Air
 Bashundhara Airways
@@ -462,14 +511,18 @@ Bel Air Aviation
 Belau Air
 Belavia
 Belogorie
+Bemidji Airlines
 Benair
 Bentiu Air Transport
 Bergen Air Transport
 Beriev
+Bering Air
 Berjaya Air
 Berkut Air
+Berry Aviation
 Bexair (Bahrain Executive Air Service)
 Bhutan Airlines
+Bighorn Airways
 Billund Rundflyvning
 Biman Bangladesh Airlines
 Binter Canarias
@@ -480,6 +533,7 @@ Blue Airlines (Congo)
 Blue Bird Aviation
 Blue Bird Aviation (Kenya)
 Blue Bird Aviation (Yemen)
+Blue Dart Aviation
 Blue Islands
 Blue Micronesia Airlines
 Blue Panorama Airlines
@@ -491,7 +545,9 @@ Bluebird Airways
 Bluebird Nordic
 Boliviana de Aviación
 Bookajet
+Borinquen Air
 Bornfly
+Boutique Air
 Braathens Regional Aviation
 Bravo Air Congo
 Bravo Airways
@@ -507,6 +563,8 @@ Buddha Air
 Budget Lines
 Buffalo Airways
 Bukovyna Airlines
+Bulgaria Air
+Bulgarian Air Charter
 Buraq Air
 Businesswings
 Buta Airways
@@ -522,6 +580,7 @@ CHC Scotia
 CM Airlines
 CO-ZA Airways
 CORPORATE AIR CHARTERS
+CSA Air
 Cabo Verde Airlines
 Cabo Verde Express
 Caicos Express Airways
@@ -543,6 +602,7 @@ Cardinal Helicopter Services
 Cargair International
 Cargo Airways International
 CargoLogicAir
+Cargoair
 Cargojet
 Cargolux
 Cargolux Italia
@@ -552,22 +612,28 @@ Casa Air Service
 Caspian Airlines
 Caspiy
 Castle Air
+Castle Aviation
 Cat Aviation
 Cathay Dragon
 Cathay Pacific
 Cathay Pacific Cargo
 Catreus AOC
 Cayman Airways
+Cebgo
+Cebu Pacific
 Central Air Transport Services (CATS)
 Central Charter de Colombia
 Central Mountain Air
 Centreline Air Charter
 Chair Airlines
+Chalair Aviation
 ChallengeAero
 Cham Wings Airlines
 Charlie Airlines
+Charter Air Transport
 Chengdu Airlines
 Cherokee Air
+Chhattisgarh Air Link
 Chim-Nir
 China Airlines
 China Airlines Cargo
@@ -579,6 +645,7 @@ China Postal Airlines
 China Southern Airlines
 China Southern Cargo
 China United Airlines
+Choice Airways
 Chongqing Airlines
 Chrono Aviation
 Chukotavia
@@ -590,6 +657,7 @@ Civair
 Clair Aero
 Classica Air
 Cloud Air
+Club One Air
 Coastal Air
 Coastal Airways (Uganda)
 Coastal Aviation
@@ -598,6 +666,7 @@ Colombe Airlines
 Colorful Guizhou Airlines
 Comair (South Africa)
 Comair Flight Services
+Comco
 Comlux Aruba
 Comlux Aviation Malta
 Comlux KZ
@@ -605,9 +674,11 @@ Comlux Middle East
 Command Airways (South Africa)
 Common Sky
 Compagnia Generale Ripreseaeree
+Compagnie Aerienne Inter Regionale Express
 Compagnie Africaine d'Aviation
 Concierge U
 Condor
+Confident Airlines[1]
 Congo Airways
 Congo Express
 Connect Linhas Aéreas
@@ -623,16 +694,20 @@ Corendon Airlines Europe
 Corendon Dutch Airlines
 Corilair
 Coronie Aero Farming
+Corporate Air
 Corporate Jet Management
 Corporate Jet Management (Austria)
+Corsair International
 Cosmos Aviation
 Costa AL
 Cougar Helicopters
 Cowi Aerial Survey
 Coyne Airways
+Critical Air Medicine
 Croatia Airlines
 Crystal Luxury Air
 Cubana
+Culebra Air Services
 Cutting Edge Helicopters
 Cygnus Air
 Czech Airlines
@@ -647,6 +722,7 @@ DHL Air UK
 DHL Aviation (Zimbabwe)
 DHL International Aviation ME
 DHL de Guatemala
+DOT LT
 DRF Stiftung Luftrettung gemeinnützige
 DSA
 Daallo Airlines
@@ -664,9 +740,12 @@ Danish Air Transport
 Dasnair
 Daya Aviation
 Debswana (Botswana)
+Deccan Charters
 Dehong South Asian Airlines
 Delcar Express
+Delta Air Lines
 Delta K Ltd
+Delta Private Jets
 Deutsche Lufthansa Berlin-Stiftung
 Deutsche Zeppelin Reederei
 Devon Air Ambulance
@@ -682,6 +761,7 @@ Donghai Airlines
 Donghai Airlines Cargo
 Dornier Aviation Nigeria
 Dove Air Services
+Dove Airlines
 Dragonfly Aviation Services
 Druk Air
 Dubai Royal Air Wing
@@ -704,6 +784,7 @@ East Wing
 EastIndo
 Eastafrican.com
 Eastar Jet
+Eastern Airlines, LLC
 Eastern Airways
 Eastern Australia Airlines
 Easy Aviation
@@ -724,6 +805,7 @@ El Magal Aviation Services
 El Sam Airlift
 Elcovka
 Eldinder Aviation
+Electra Airways
 Elicar
 Elifriulia
 Elilario Italia
@@ -737,6 +819,7 @@ Elitávia Portugal
 Ellinair
 Emirates
 Emirates SkyCargo
+Empire Airlines
 Empire Aviation Group
 Enerjet
 Entebbe Airways
@@ -747,6 +830,7 @@ Equaflight
 Ernest Airlines
 Erofei
 Escadrille Nationale du Niger
+Escadron de transport, d'entrainement et de calibration
 Espace Aviation Services
 Estafeta Carga Aérea
 Estelar Latinoamerica
@@ -764,8 +848,12 @@ Eurowings
 Eurowings Europe
 Evelop Airlines
 Everjets
+Everts Air
+Everts Air Cargo
+Evolem Aviation
 Exact Air
 Excel Charter
+ExcelAire
 Excellent Glide
 Exec-Air
 ExecuJet Europe
@@ -776,6 +864,7 @@ Exin
 Exploits Valley Air Services
 Express Air Cargo
 Express Freighters Australia
+Express One International
 F-Air
 FAI rent-a-jet
 FLN Frisia Luftverkehr
@@ -790,11 +879,13 @@ Fast Air
 Fastjet Mozambique
 Fastjet Tanzania
 Fastjet Zimbabwe
+FedEx Express
 Federal Air
 Felix Airways
 Fiji Airways
 Fiji Link
 Filair
+Finist'air
 Finnair
 Firefly
 First Nation Airways
@@ -806,6 +897,7 @@ Fleet Air
 Flex Ops
 FlexFlight
 Flight Academy Limited
+Flight Express
 Flight Express (Congo Kinshasa)
 Flightexec
 Flightlink
@@ -813,6 +905,8 @@ Fly All Ways
 Fly BVI
 Fly Baghdad
 Fly Corporate
+Fly Divine
+Fly Hornbill
 Fly International Airways
 Fly Jet
 Fly Jet KZ
@@ -820,6 +914,7 @@ Fly My Sky
 Fly Pro
 Fly Safari Air Link Ltd
 Fly Tiwi
+Fly2Sky Airlines
 Fly540
 Fly540 Uganda
 FlyBosnia
@@ -845,6 +940,10 @@ Fort Aero
 Freebird Airlines
 Freebird Airlines Europe
 Freedom Airline Express
+Freight Runners Express
+French Bee
+Frontier Airlines
+Frontier Flying Service
 Fuji Dream Airlines
 Fuzhou Airlines
 G-Jet
@@ -856,10 +955,13 @@ Gama Aviation
 Garinco Airways
 Garuda Indonesia
 Gazpromavia
+Gem Air
 Genex
 Genghis Khan Airlines
 Gestair
+GetJet Airlines
 Ghadames Air Transport
+Ghodawat Aviation
 Gianair
 Gisair
 Global Africa Aviation
@@ -869,10 +971,12 @@ Global Aviation
 Global Aviation and Services Group
 Global Jet Austria
 Global Jet Luxembourg
+Global Vectra Helicorp
 Globalia Linhas Aéreas Ltda
 GlobeAir
 Globus Airlines
 Go2Sky
+GoAir
 Golden Arrow Airways
 Golden Bay Air
 Golden Myanmar Airlines
@@ -884,15 +988,22 @@ Goma Express
 Gomair
 Gowair Vacation Airlines
 Grafair
+Grand Canyon Airlines
+Grand Canyon Scenic Airlines
 Grand China Air
+Grand Cru Airlines
+Grant Aviation
 Great Airways
 Great Dane Airlines
+Great Lakes Air
 Great Lakes Business Company
 Great Slave Helicopters
 Green Flag Airlines
+Griffing Flying Service
 Grodno Aviakompania
 Grossmann Air Service
 Groupe Rubuye Aviation
+Gryphon Airlines
 Guangxi Beibu Gulf Airlines
 Guicango
 Gulf Air
@@ -903,6 +1014,8 @@ HBA - Hewa Bora Airways
 HELI Czech
 HH Helicopters
 HK Express
+HOP!
+Hageland Aviation Services
 Hahn Air
 Hai Au Aviation
 Hainan Airlines
@@ -911,10 +1024,12 @@ Harbour Air Seaplanes
 Hardy Aviation
 Harv's Air Service
 Haverdfordwest Air Charter Services
+Hawaiian Airlines
 Hawk Air
 Hebei Airlines
 Hebridean Air Services
 Heli Air
+Heli Air Services
 Heli Dubai
 Heli Malongo Airways
 Heli-drive
@@ -950,6 +1065,10 @@ Hongkong Jet
 Hunnu Airlines
 I-Fly
 IAS Medical
+IBC Airways
+IFL Group
+IGavion
+INAEC
 ITAB - International Trans Air Business
 Iberia
 Iberia Express
@@ -960,6 +1079,7 @@ Icaro Aero Taxi
 Icelandair
 Impress Aviation Limited
 Inaer
+IndiGo
 Indonesia AirAsia
 Int'Air Îles
 Inter African Cargo Airlines
@@ -976,6 +1096,7 @@ Iran Air Tours
 Iran Aseman Airlines
 Iraqi Airways
 Island Air (Cayman Islands)
+Island Airways
 Island Birds
 Island Express Air
 Island Hoppers
@@ -991,7 +1112,10 @@ JET AIR GROUP
 JET-OPS
 JU Air
 Jags Aviation
+Jagson Airlines
+Jal Hans
 Jambojet
+Janet
 Japan Air Commuter
 Japan Airlines
 Japan Transocean Air
@@ -1011,8 +1135,12 @@ Jet-2000
 Jet-Ops Europe
 Jet2
 JetBee Czech
+JetBlue Airways
+JetCorp
 JetFly Aviation
 JetSMART
+JetSuite
+JetSuiteX
 Jetair (Congo Kinshasa)
 Jetcom
 Jetflite
@@ -1036,6 +1164,7 @@ Jubba Airways (Kenya)
 Juneyao Airlines
 Jupiter Airlines
 Just Us Air
+Justice Prisoner and Alien Transportation System
 Jämtlands Flyg
 K-Mile Air
 K2 SmartJets
@@ -1046,6 +1175,8 @@ KLM
 KLM Cityhopper
 Kabo Air
 Kalahari Air Services & Charter
+Kalitta Air
+Kalitta Charters
 Kallat Elsaker Air
 Kam Air
 Kamchatskoe Air Enterprise
@@ -1066,8 +1197,10 @@ Kazakhmys
 Kazan Air Enterprise
 Kazaviaspas
 Keewatin Air
+Kenmore Air
 Kenn Borek Air
 Kenya Airways
+Key Lime Air
 Khabarovsk Airlines
 Khatlon Air
 Khoriv-Avia
@@ -1097,6 +1230,7 @@ Kunming Airlines
 Kush Air
 Kush Air Uganda
 Kuwait Airways
+L-3 Flight International Aviation
 LAC - Lignes Aériennes Congolaises
 LAM Mozambique Airlines
 LASER Airlines
@@ -1112,11 +1246,13 @@ LATAM Express
 LATAM Paraguay
 LATAM Perú
 LEVEL
+LIFESTAR
 LOT Charters
 LOT Polish Airlines
 LR Airlines
 LR Helicopters
 LUKoil-Avia
+La Compagnie
 La Costeña
 LadyLori
 Lanhsa Airlines
@@ -1129,13 +1265,16 @@ Lauda
 Layang Layang Aerospace
 Lease Fly
 Liaoning Pengfei General Aviation
+Liberty Jet Management
 Libyan Airlines
 Libyan Arab Air Cargo
 Libyan Wings
+Life Lion
 Light Air
 Lineas Aéreas Canedo - LAC
 Lineas Aéreas Paraguayas
 Lion Air
+Lionair
 Lions Air
 Lipican Aer
 Loch Lomond Seaplanes
@@ -1161,12 +1300,14 @@ Luxair
 Luxaviation
 Luxembourg Air Rescue
 Lydd Air
+Lynden Air Cargo
 Lynden Air Cargo PNG
 Línea Aérea Amaszonas
 Línea Aérea SINAMI
 Línea Turística Aereotuy
 Líneas Aéreas Suramericanas
 Líneas Aéreas del Estado
+M&N Aviation
 MAF Papua New Guinea
 MAF Uganda
 MAHOGANY AIR LINES
@@ -1191,6 +1332,7 @@ Mahan Air
 Mahfooz Aviation
 Major Blue Air
 Makalu Air
+Makani Kai Air
 Malawian Airlines
 Malaysia Airlines
 Maldivian
@@ -1211,6 +1353,7 @@ Maritime Air Charter
 Maroomba Airlines
 Mars Avia
 Martinair
+Martinaire
 MasAir
 Masterjet
 Mauritania Airlines
@@ -1227,15 +1370,20 @@ Meiya Air
 Meraj Airlines
 Meridian
 Meridian+
+Merlin Airways
+Merlin Express
 Metrojet
+Miami Air International
 Mid Africa Aviation
 Mid Airlines
 Mid East Jet
+Mid-Atlantic Freight
 Middle East Airlines
 Millennium Airlines
 Mineral Airways
 Missinippi Airways
 Modern Logistics
+Mokulele Airlines
 Mombasa Air Safari
 Mongolian Airways Cargo
 Montenegro Airlines
@@ -1244,6 +1392,7 @@ Morningstar Air Express
 Moscow Aircraft Overhaul Plant
 Motor Sich Airlines
 Mount Cook Airline
+Mountain Air Cargo
 Moçambique Expresso
 Multiflight
 Mustique Airways
@@ -1256,6 +1405,7 @@ NAM Air
 Nakina Air Service
 Nanshan Jet
 Naryan-Mar United Aviation Squadron
+National Airlines
 National Airways Ethiopia
 Nationale Regionale Transport
 Nauru Airlines
@@ -1263,10 +1413,12 @@ Nefteyugansk United Airline Transportation Company
 Neos
 Nepal Airlines
 Nesma Airlines
+NetJets
 NetJets Europe
 Network Aviation
 New ACS
 New Central Airlines
+New England Airlines
 New Japan Aviation
 New Millennium Air
 Newcastle Aviation
@@ -1299,6 +1451,7 @@ North Wales Air Academy
 North-Wright Airways
 Northern Air
 Northern Air (Botswana)
+Northern Air Cargo
 Northern Air Support
 Northern Thunderbird Air
 Northumbria Helicopters
@@ -1325,9 +1478,12 @@ Olympic Air
 Olympus Airways
 Oman Air
 Omni - Aviação e Tecnologia
+Omni Air International
 One Airlines
 Onur Air
 Ookpik Aviation
+OpenFlight
+Orange Air
 Orange2Fly
 Orbest
 Ordos General Aviation
@@ -1339,19 +1495,26 @@ Orion-x
 Ornge
 Overeem Air Service
 Overland Airways
+Oya Vendée Hélicoptères
+Oyonnair
+PAL Express
 PANH HELICOPTERS
 PDG Helicopters
 PNG Air
 PWA Panama World Airways
 Pacific Air Express
+Pacific Coast Jet
 Pacific Coastal Airlines
 Pacific International Airlines
 Pacific Island Air
+Pacificair
 Pakistan International Airlines
 Paladin Energy Airlines
 Palestinian Airlines
 Pan African Airways
 Pan African Express
+Pan Europeenne
+Pan Pacific Airlines
 PanAir Cargo
 Panavia
 Panaviatic
@@ -1361,6 +1524,7 @@ Parcelair
 Pascan Aviation
 Passaredo Linhas Aéreas
 Passion Air
+Pawan Hans
 Payam Air
 Peach Aviation
 Pecotox Air
@@ -1371,6 +1535,8 @@ Pegasus Aviation (Congo)
 Pel-Air
 Pelita Air Service
 Pen-Avia
+Penobscot Island Air
+Pentastar Aviation
 People's
 PeopleFly
 Perimeter Aviation
@@ -1381,13 +1547,21 @@ Petroecuador EP
 Petroleum Air Services
 Petropavlovsk
 Petrozavodsk Airport
+Phenix Aviation
+Philippine Airlines
+Philippines AirAsia
 Phoebus Apollo Aviation
+Phoenix Air
 Phoenix Aviation (Kenya)
 Phoenix Helicopter Academy
 Pineapple Air
+Pinnacle Air
 Piquiatuba Transportes Aéreos
+PlaneSense
+Platinum Skies
 Plus Ultra Líneas Aéreas
 Pobeda
+Polar Air Cargo
 Polar Airlines
 Polar-Avia
 Polo Aviation
@@ -1395,11 +1569,13 @@ Porter Airlines
 Portugália Airlines
 Poste Air Cargo
 Pouya Cargo Air
+Prams Air
 Precision Air
 PremiAir Aviation Services
 Premiair
 Premier Services East Africa
 Premium Jet
+Presidential Airways
 Presidential Flight
 Presidential Squadron
 Prime Aviation
@@ -1408,6 +1584,7 @@ Princely Jets
 PrivatAir (Germany)
 Private Wings
 Privilege Style
+Pro-Air Services
 Professione Volare
 Proflight Zambia
 Propair
@@ -1424,6 +1601,7 @@ Qingdao Airlines
 Queen Air
 Queen Bilqis Airways
 Queensway Air Services
+Quikjet Airlines
 R1 Airlines
 RAF-Avia
 RAM Cargo
@@ -1441,6 +1619,7 @@ Raya Airways
 Raya Jet
 Real Tonga
 Red Wings Airlines
+Rediske Air
 Regent Airways
 RegionAir
 Regional Air
@@ -1451,6 +1630,7 @@ Regional Express Américas
 Regional Paraguaya
 Reignwood Asia Aviation
 Reliance Air Charters
+Reliant Air
 Republic Express Airlines
 Ribway Cargo Airlines
 Ridge Airways
@@ -1460,6 +1640,8 @@ Roraima Airways
 Rossiya
 Rosvertol-Avia
 Rotana Jet
+Royal Air Charter
+Royal Air Freight
 Royal Air Maroc
 Royal Air Maroc Express
 Royal Brunei Airlines
@@ -1476,6 +1658,7 @@ RusLine
 Rusaero
 Russian Air Force
 RwandAir
+Ryan Air Services
 Ryanair
 Ryanair Sun
 Ryanair UK
@@ -1493,6 +1676,7 @@ SASCO Air Lines
 SATA Air Açores
 SATENA
 SCAT
+SEAir International
 SELVA - Servicios Aéreos del Vaupes
 SF Airlines
 SJL Aeronautica
@@ -1510,11 +1694,14 @@ Safari Express Cargo
 Safari Plus
 Safarilink Aviation
 Safe Air (Kenya)
+Safefly Aviation
 Saha Airlines
 Sahel Aviation Service
 SalamAir
 Salt Spring Air
 Samoa Airways
+San Juan Airlines
+San Juan Aviation
 Sansa Airlines
 Sardinian Sky Service
 SaudiGulf
@@ -1537,6 +1724,7 @@ Semeyavia
 Sepehran Airlines
 Serendib Airways
 Serene Air
+Servant Air
 Services Air
 Servicios Aéreos Profesionales
 Servicios Aéreos Río Baker
@@ -1559,6 +1747,7 @@ Sibia
 Siburskaja Ljegkaja Aviacija
 Sichuan Airlines
 Sideral
+Sierra Pacific Airlines
 Silesia Air
 Silk Road Cargo Business
 Silk Way Airlines
@@ -1583,7 +1772,9 @@ Sky Express
 Sky Gabon
 Sky Gates Airlines
 Sky Horse Aviation
+Sky Lease Cargo
 Sky Net Airline
+Sky Pasada
 Sky Prime Aviation
 Sky Regional Airlines
 Sky Service (Kazakhstan)
@@ -1594,6 +1785,7 @@ Sky bizz
 SkyAir
 SkyBahamas
 SkyFirst LTD
+SkyJet Airlines
 SkyLink Aviation
 SkyLink Express
 SkyNorth Air
@@ -1601,12 +1793,14 @@ SkyUp
 SkyWay
 Skybus (Kazakhstan)
 Skymark Airlines
+Skymax
 Skyservice Business Aviation
 Skytaxi
 Skytraders
 Skytrail Air Safaris
 Skytrans
 Skyward International Aviation
+Skyway Enterprises
 Skywise Airlines
 Sloane Helicopters
 Slovak Government Flying Service
@@ -1635,19 +1829,29 @@ Solomon Airlines
 Solomon Islands Seaplanes
 Somon Air
 SonAir
+Songbird Airways
 Sounds Air
 South African Airways
 South African Express
 South Asian Airlines
+Southern Air
 Southern Air Charter
+Southern Airways Express
+Southwest Airlines
 Sovereign Business Jets
 Specialist Aviation Services
+SpiceJet
+SpiceXpress
+Spirit Air
+Spirit Airlines
 Spring Airlines
 Spring Airlines Japan
 SprintAir
 SprintAir Cargo
 SriLankan Airlines
 Sriwijaya Air
+St-Barth Commuter
+Stampede Aviation
 Star Air
 Star Air Cargo
 Star Aviation
@@ -1666,11 +1870,13 @@ Stewart Island Flights
 Stobart Air
 Strezhevskoje aviation enterprise
 Stuttgarter Flugdienst
+Subic Seaplane
 Sudan Airways
 Sultan's Flight
 Summit Air
 Summit Helicopters
 Sun Air (Sudan)
+Sun Country Airlines
 Sun d'Or
 Sun-Air of Scandinavia
 SunClass Airlines
@@ -1688,11 +1894,15 @@ Sunwest Aviation
 Sunwing Airlines
 Suparna Airlines
 Superior Airways
+Superior Aviation
+Supreme Airlines
+Surf Air
 Surinaamse Zendings Vliegdienst / MAF Suriname
 Surinam Airways
 Surinam Sky Farmers
 Susi Air
 Swala Aviation
+Swift Air
 Swiftair
 Swiftair Hellas
 Swiss Air-Rescue
@@ -1729,17 +1939,23 @@ TUIfly Nordic
 Taban Air
 Taftan Airlines
 Tailwind Airlines
+TajAir
+Talkeetna Air Taxi
 Talofa Airways
 Talos Aviation
 Tamarind Air
+Taneja Aerospace and Aviation Ltd
 Tango Airways
 Tanzania Government Flight Agency
+Taquan Air
 Tara Air
 Tarco Airlines
 Tasman Cargo Airlines
 Tassili Airlines
 Taxijet
+Tayaran Jet
 Tchadia Airlines
+Tepper Aviation
 Texel Air
 TezJet Airlines
 Thai AirAsia
@@ -1759,8 +1975,8 @@ Tigerair Taiwan
 Tiko Air
 TimAir
 Time Air
-Tiriac Air
 Titan Airways
+Titan Aviation
 Tofino Air
 Toll Aviation
 Tombouctou Aviation
@@ -1768,6 +1984,7 @@ Total Linhas Aéreas
 Toumaï Air Tchad
 Toyo Aviation
 Trade Air
+Tradewind Aviation
 Trans Air Cargo Service
 Trans Air Congo
 Trans Am Aero Express del Ecuador
@@ -1780,8 +1997,11 @@ TransAVIAexport Airlines
 TransNusa
 Transafrik International
 Transafrik Uganda
+Transair
 Transair (Senegal)
 Transavia
+Transavia France
+Transaviabaltika
 Transcarga International Airways
 Transliz Aviation
 Transportes Aéreos Guatemaltecos
@@ -1793,7 +2013,9 @@ Tri-MG Intra Asia Airlines
 Trident Aviation
 Trigana Air
 Tropic Air
+Tropic Ocean Airways
 Tropical Air
+TruJet
 Tsaradia
 Tubania Aviation Group
 Tulpar Air
@@ -1809,12 +2031,16 @@ Turpial Airlines
 Turuhan
 Tus Airways
 Tuva Airlines
+Twin Cities Air Service
+Twinjet
 TwoFlex
 Type A Operating Licence Holders
 Type B Operating Licence Holders
 Tyrolean Jet Services
 ULS Airlines Cargo
+UPS Airlines
 US-Bangla Airlines
+USA Jet Airlines
 UTair
 UVT Aero
 Uganda Air Cargo
@@ -1825,12 +2051,14 @@ Ukraine Air Enterprise
 Ukraine International Airlines
 Uktus
 Ulendo Airlink
+Ultimate Air Shuttle
 Ulyanovsk Higher Civil Aviation School
 Unaalik Aviation
 Uni Air
 Uni-Fly
 Union Express Charter Airline
 Unique Air
+United Airlines
 United Airlines Uganda
 United Aviation (Libya)
 United Aviation Services
@@ -1840,20 +2068,24 @@ Uniworld Air Cargo
 Unoversal-Avia
 Ural Airlines
 Urumqi Air
+Utah Airways
 Utair
 Uzbekistan Airways
 VI Airlink
 VIH Helicopters
+VRL Air
 Van Air Europe
 Vancouver Island Air
 Vanuatu Helicopters
 Vektra Aviation
 Venezolana
 Vensecar Internacional
+Ventura AirConnect
 Vertical de Aviación
 Vertical-T
 Victoria Airways
 Victoria International Airlines
+Vieques Air Link
 VietJet Air
 Vietnam Air Services Company
 Vietnam Airlines
@@ -1865,12 +2097,14 @@ Virgin Australia
 Virgin Australia Regional Airlines
 Visionair Quebec
 VistaJet
+Vistara
 Vityaz-aero
 Viva Air Colombia
 Viva Air Perú
 VivaAerobús
 Volaris
 Volaris Costa Rica
+Voldirect
 Volga-Dnepr
 Vologda Aviation Enterprise
 Volotea
@@ -1885,6 +2119,7 @@ WDL Aviation
 WaltAir
 Waltair (Congo)
 Wamos Air
+Warbelow's Air Ventures
 Wasaya Airways
 West Air
 West Air Luxembourg
@@ -1895,12 +2130,14 @@ West Wing Aviation
 WestJet
 WestJet Encore
 Western Air
+Western Global Airlines
 Weststar Aviation
 Wetrafa Airlift
 White Airways
 White River Air
 Whizzard Helicopters
 Widerøe
+Wiggins Airways
 Wiking Helikopter Service
 Wilderness Air
 Wilderness Air Escapes
@@ -1914,12 +2151,16 @@ Wizz Air
 Wizz Air UK
 Wolf Aviation
 Woodgate Aviation (NI)
+World Atlantic Airlines
+Wright Air Service
 XL Trading
+XOJET
 Xclusive Jet Charter
 XiamenAir
 Xihua General Aviation
 Xinjiang General Aviation
 Xpress Air
+Xtra Airways
 YTO Cargo Airlines
 Yakutia Airlines
 Yamal Airlines
@@ -1948,4 +2189,5 @@ air-taxi europe
 airDC
 easyJet Europe
 flyCongo
+iXair
 interCaribbean Airways
