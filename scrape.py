@@ -24,6 +24,7 @@ for link in links:
     b = BeautifulSoup(html.text, 'lxml')
     # Airline names are stored in tables and sometimes there can be multiple tables. As a result of that, we get all the
     # tables in the page.
+    # By using a lambda function here we can tell find_all to find all classes that include wikitable in them.
     tables = b.find_all('table', {"class": lambda c: "wikitable" in c})
     if len(tables) > 0:
         for table in tables:
@@ -39,7 +40,7 @@ for link in links:
                 except AttributeError:
                     pass
                 counter += 1
-            # For each row get the content of the column that has the airline name and put it in airlines set.
+            # For each row get the content of the column that has the airline name and put it in the airlines set.
             for tr in airline_trs:
                 if isinstance(tr, bs4.element.Tag):
                     airline_column = tr.contents[counter]
